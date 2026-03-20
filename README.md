@@ -1,17 +1,13 @@
-## Getting Started
+Mô tả
 
-First, run the development server:
+Giao diện frontend mô phỏng Twitter, responsive, tương tác cơ bản (like, comment UI) nh
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Tính năng chính
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Hiển thị feed bài đăng (mock data)
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Like, comment, share bài viết (UI)
+
+Responsive trên mobile & desktop
+
+Tương tác mô phỏng (tất cả dữ liệu giả)
